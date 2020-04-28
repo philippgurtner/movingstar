@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name mma8453q)(type Legacy)(uri ${KIPRJMOD}/mma8453q.lib)(options "")(descr ""))
+  (lib (name user_fallblatt)(type Legacy)(uri /home/user/fallblattuhr/hardware/user_fallblatt.lib)(options "")(descr ""))
+  (lib (name ws2812b-2020)(type Legacy)(uri ${KIPRJMOD}/ws2812b-2020.lib)(options "")(descr ""))
+  (lib (name TASTER)(type Legacy)(uri ${KIPRJMOD}/taster_smd/TASTER.lib)(options "")(descr ""))
+  (lib (name movingstar-rescue)(type Legacy)(uri ${KIPRJMOD}/movingstar-rescue.lib)(options "")(descr ""))
+)

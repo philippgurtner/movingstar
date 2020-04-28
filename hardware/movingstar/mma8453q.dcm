@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMA8453Q
+D 3-Axis 10-bit Digital Accelerometer with I2C interface
+K Accelerometer I2C
+F https://www.nxp.com/docs/en/data-sheet/MMA8453Q.pdf
+$ENDCMP
+#
+#End Doc Library
